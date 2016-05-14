@@ -1,0 +1,270 @@
+newmtl Metallic_Varnis0
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis0.jpg
+newmtl Chrome0
+Ka 0 0 0
+Ns 114.434
+Ks 1 1 1
+Kd 0.681949 0.720702 0.73147
+map_Kd Chrome0_1.jpg
+newmtl Dark_smoked_gla0
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla0_2.jpg
+newmtl Gold0
+Ka 0 0 0
+Ns 66.6863
+Ks 1 0.717647 0.133333
+Kd 0.917647 0.666667 0
+map_Kd Gold0_3.jpg
+newmtl Tinted_metal
+Ka 0 0 0
+Ns 20.0855
+Ks 1 1 1
+Kd 0.81942 0.721287 0.474125
+map_Kd Tinted_metal_4.jpg
+newmtl Flat_white0
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Flat_white0_5.jpg
+newmtl Metallic_Varnis1
+Ka 0 0 0
+Ns 3.32012
+Ks 0.733333 0.92549 1
+Kd 0.823529 0 0.0352941
+map_Kd Metallic_Varnis1_6.jpg
+newmtl Polished_silver0
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silver0_7.jpg
+newmtl Black_porcelaine
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.133333 0.141176 0.192157
+map_Kd Black_porcelaine_8.jpg
+newmtl Metallic_Varnis2
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis2_9.jpg
+newmtl Chrome1
+Ka 0 0 0
+Ns 114.434
+Ks 1 1 1
+Kd 0.681949 0.720702 0.73147
+map_Kd Chrome1_10.jpg
+newmtl Gold1
+Ka 0 0 0
+Ns 66.6863
+Ks 1 0.717647 0.133333
+Kd 0.917647 0.666667 0
+map_Kd Gold1_11.jpg
+newmtl Aluminium0
+Ka 0 0 0
+Ns 1.82212
+Ks 1 1 1
+Kd 0.647059 0.647059 0.647059
+map_Kd Aluminium0_12.jpg
+newmtl Burned_Steel_20
+Ka 0 0 0
+Ns 3.32012
+Ks 0.741176 0.870588 0.964706
+Kd 0.363099 0.310874 0.273718
+map_Kd Burned_Steel_20_13.jpg
+newmtl Metallic_Varnis3
+Ka 0 0 0
+Ns 6.04965
+Ks 0.733333 0.92549 1
+Kd 0 0 0.0784314
+map_Kd Metallic_Varnis3_14.jpg
+newmtl Metallic_Varnis4
+Ka 0 0 0
+Ns 3.32012
+Ks 0.733333 0.92549 1
+Kd 0.823529 0 0.0352941
+map_Kd Metallic_Varnis4_15.jpg
+newmtl Polished_silver1
+Ka 0 0 0
+Ns 36.5982
+Ks 1 0.788235 0.635294
+Kd 0.749005 0.749005 0.749005
+map_Kd Polished_silver1_16.jpg
+newmtl Aluminium1
+Ka 0 0 0
+Ns 1.82212
+Ks 1 1 1
+Kd 0.647059 0.647059 0.647059
+map_Kd Aluminium1_17.jpg
+newmtl White_porcelain0
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.533333 0.54902 0.678432
+map_Kd White_porcelain0_18.jpg
+newmtl Mercury0
+Ka 0 0 0
+Ns 52.4573
+Ks 1 1 1
+Kd 0.745098 0.74902 0.752941
+map_Kd Mercury0_19.jpg
+newmtl Flat_white1
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Flat_white1_20.jpg
+newmtl Flat_white2
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Flat_white2_21.jpg
+newmtl Flat_black0
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0 0 0
+map_Kd Flat_black0_22.jpg
+newmtl Dark_smoked_gla1
+Ka 0 0 0
+Ns 34.4669
+Ks 1 1 1
+Kd 0.498039 0.498039 0.498039
+map_Kd Dark_smoked_gla1_23.jpg
+newmtl White_porcelain1
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain1_24.jpg
+newmtl White_porcelain2
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain2_25.jpg
+newmtl White_porcelain3
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain3_26.jpg
+newmtl Flat_black1
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0 0 0
+map_Kd Flat_black1_27.jpg
+newmtl White_porcelain4
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain4_28.jpg
+newmtl Mercury1
+Ka 0 0 0
+Ns 52.4573
+Ks 1 1 1
+Kd 0.745098 0.74902 0.752941
+map_Kd Mercury1_29.jpg
+newmtl Flat_gray
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 0.501961 0.501961 0.501961
+map_Kd Flat_gray_30.jpg
+newmtl White_porcelain5
+Ka 0 0 0
+Ns 164.022
+Ks 1 1 1
+Kd 0.862745 0.866667 0.905882
+map_Kd White_porcelain5_31.jpg
+newmtl Burned_Steel_21
+Ka 0 0 0
+Ns 3.32012
+Ks 0.741176 0.870588 0.964706
+Kd 0.363099 0.310874 0.273718
+map_Kd Burned_Steel_21_32.jpg
+newmtl overheatedmetal
+Ka 0 0 0
+Ns 1
+Ks 0.592157 0.635294 1
+Kd 0.695167 0.725616 0.757856
+map_Kd overheatedmetal_33.jpg
+newmtl Aluminium2
+Ka 0 0 0
+Ns 1.82212
+Ks 1 1 1
+Kd 0.647059 0.647059 0.647059
+map_Kd Aluminium2_34.jpg
+newmtl Metallic_Varnis5
+Ka 0 0 0
+Ns 4.48169
+Ks 0.733333 0.92549 1
+Kd 0.00392157 0.0313726 0.917647
+map_Kd Metallic_Varnis5_35.jpg
+newmtl Metallic_Varnis6
+Ka 0 0 0
+Ns 3.32012
+Ks 0.733333 0.92549 1
+Kd 0.823529 0 0.0352941
+map_Kd Metallic_Varnis6_36.jpg
+newmtl Flat_white3
+Ka 0 0 0
+Ns 8.16617
+Ks 1 1 1
+Kd 1 1 1
+map_Kd Flat_white3_37.jpg
+newmtl BlackInodizedAl0
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl0_38.jpg
+newmtl BlackInodizedAl1
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl1_39.jpg
+newmtl BlackInodizedAl2
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl2_40.jpg
+newmtl BlackInodizedAl3
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl3_41.jpg
+newmtl BlackInodizedAl4
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl4_42.jpg
+newmtl BlackInodizedAl5
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl5_43.jpg
+newmtl BlackInodizedAl6
+Ka 0 0 0
+Ns 3.47873
+Ks 1 1 1
+Kd 0.198039 0.198039 0.198039
+map_Kd BlackInodizedAl6_44.jpg
