@@ -1,13 +1,14 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Trigerbandera.js">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Sound.js">
     <Files>
-      <File FileName="Assets\Script\Trigerbandera.js" Line="22" Column="1" />
+      <File FileName="Assets\Script\Trigerbandera.js" Line="1" Column="1" />
       <File FileName="Assets\Script\Dialogos.js" Line="1" Column="1" />
       <File FileName="Assets\Script\TriggerApolo.js" Line="1" Column="1" />
       <File FileName="Assets\Script\DialogoLuna.js" Line="1" Column="1" />
       <File FileName="Assets\Script\Tinfo1.js" Line="1" Column="1" />
-      <File FileName="Assets\Script\Tinfo2.js" Line="15" Column="85" />
+      <File FileName="Assets\Script\Tinfo2.js" Line="1" Column="1" />
+      <File FileName="Assets\Script\Sound.js" Line="6" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

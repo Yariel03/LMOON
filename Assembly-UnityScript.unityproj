@@ -52,6 +52,7 @@
      <Compile Include="Assets\Script\Tinfo2.js" />
      <Compile Include="Assets\Script\Trigerbandera.js" />
      <Compile Include="Assets\Script\TriggerApolo.js" />
+     <Compile Include="Assets\Script\Viajaluna.js" />
      <Compile Include="Assets\Script\change.js" />
      <Compile Include="Assets\Script\saltar.js" />
      <None Include="Assets\Cardboard\Distortion\CardboardDistortion.cginc" />

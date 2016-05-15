@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 040a3a79939095a4f97235ea4c7b4bee
+timeCreated: 1463257895
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: COLLISION
+    100002: //RootNode
+    100004: HOUSE3
+    100006: JANELA02
+    100008: JANELA03
+    100010: JANELA04
+    100012: UCX_HOUSE3_01
+    100014: UCX_HOUSE3_02
+    100016: UCX_HOUSE3_03
+    100018: UCX_HOUSE3_04
+    100020: UCX_HOUSE3_05
+    100022: UCX_HOUSE3_06
+    100024: UCX_HOUSE3_07
+    100026: UCX_HOUSE3_08
+    100028: UCX_HOUSE3_09
+    100030: UCX_HOUSE3_10
+    100032: UCX_HOUSE3_11
+    100034: UCX_HOUSE3_12
+    100036: UCX_HOUSE3_13
+    100038: UCX_HOUSE3_14
+    100040: WINDOW
+    100042: WINDOW01
+    100044: WINDOW02
+    400000: COLLISION
+    400002: HOUSE3
+    400004: //RootNode
+    400006: JANELA02
+    400008: JANELA03
+    400010: JANELA04
+    400012: UCX_HOUSE3_01
+    400014: UCX_HOUSE3_02
+    400016: UCX_HOUSE3_03
+    400018: UCX_HOUSE3_04
+    400020: UCX_HOUSE3_05
+    400022: UCX_HOUSE3_06
+    400024: UCX_HOUSE3_07
+    400026: UCX_HOUSE3_08
+    400028: UCX_HOUSE3_09
+    400030: UCX_HOUSE3_10
+    400032: UCX_HOUSE3_11
+    400034: UCX_HOUSE3_12
+    400036: UCX_HOUSE3_13
+    400038: UCX_HOUSE3_14
+    400040: WINDOW
+    400042: WINDOW01
+    400044: WINDOW02
+    2300000: HOUSE3
+    2300002: JANELA02
+    2300004: JANELA03
+    2300006: JANELA04
+    2300008: UCX_HOUSE3_01
+    2300010: UCX_HOUSE3_02
+    2300012: UCX_HOUSE3_03
+    2300014: UCX_HOUSE3_04
+    2300016: UCX_HOUSE3_05
+    2300018: UCX_HOUSE3_06
+    2300020: UCX_HOUSE3_07
+    2300022: UCX_HOUSE3_08
+    2300024: UCX_HOUSE3_09
+    2300026: UCX_HOUSE3_10
+    2300028: UCX_HOUSE3_11
+    2300030: UCX_HOUSE3_12
+    2300032: UCX_HOUSE3_13
+    2300034: UCX_HOUSE3_14
+    3300000: HOUSE3
+    3300002: JANELA02
+    3300004: JANELA03
+    3300006: JANELA04
+    3300008: UCX_HOUSE3_01
+    3300010: UCX_HOUSE3_02
+    3300012: UCX_HOUSE3_03
+    3300014: UCX_HOUSE3_04
+    3300016: UCX_HOUSE3_05
+    3300018: UCX_HOUSE3_06
+    3300020: UCX_HOUSE3_07
+    3300022: UCX_HOUSE3_08
+    3300024: UCX_HOUSE3_09
+    3300026: UCX_HOUSE3_10
+    3300028: UCX_HOUSE3_11
+    3300030: UCX_HOUSE3_12
+    3300032: UCX_HOUSE3_13
+    3300034: UCX_HOUSE3_14
+    4300000: HOUSE3
+    4300002: JANELA02
+    4300004: JANELA03
+    4300006: JANELA04
+    4300008: UCX_HOUSE3_01
+    4300010: UCX_HOUSE3_02
+    4300012: UCX_HOUSE3_03
+    4300014: UCX_HOUSE3_04
+    4300016: UCX_HOUSE3_05
+    4300018: UCX_HOUSE3_06
+    4300020: UCX_HOUSE3_07
+    4300022: UCX_HOUSE3_08
+    4300024: UCX_HOUSE3_09
+    4300026: UCX_HOUSE3_10
+    4300028: UCX_HOUSE3_11
+    4300030: UCX_HOUSE3_12
+    4300032: UCX_HOUSE3_13
+    4300034: UCX_HOUSE3_14
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: fe035e61608144e4386e8bc0cd5894cb
+timeCreated: 1463257897
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: COLLISION
+    100002: //RootNode
+    100004: HOUSE3
+    100006: JANELA02
+    100008: JANELA03
+    100010: JANELA04
+    100012: UCX_HOUS10
+    100014: UCX_HOUS11
+    100016: UCX_HOUS12
+    100018: UCX_HOUS13
+    100020: UCX_HOUSE0
+    100022: UCX_HOUSE1
+    100024: UCX_HOUSE2
+    100026: UCX_HOUSE3
+    100028: UCX_HOUSE4
+    100030: UCX_HOUSE5
+    100032: UCX_HOUSE6
+    100034: UCX_HOUSE7
+    100036: UCX_HOUSE8
+    100038: UCX_HOUSE9
+    100040: WINDOW
+    100042: WINDOW01
+    100044: WINDOW02
+    400000: COLLISION
+    400002: //RootNode
+    400004: HOUSE3
+    400006: JANELA02
+    400008: JANELA03
+    400010: JANELA04
+    400012: UCX_HOUS10
+    400014: UCX_HOUS11
+    400016: UCX_HOUS12
+    400018: UCX_HOUS13
+    400020: UCX_HOUSE0
+    400022: UCX_HOUSE1
+    400024: UCX_HOUSE2
+    400026: UCX_HOUSE3
+    400028: UCX_HOUSE4
+    400030: UCX_HOUSE5
+    400032: UCX_HOUSE6
+    400034: UCX_HOUSE7
+    400036: UCX_HOUSE8
+    400038: UCX_HOUSE9
+    400040: WINDOW
+    400042: WINDOW01
+    400044: WINDOW02
+    2300000: HOUSE3
+    2300002: JANELA02
+    2300004: JANELA03
+    2300006: JANELA04
+    2300008: UCX_HOUS10
+    2300010: UCX_HOUS11
+    2300012: UCX_HOUS12
+    2300014: UCX_HOUS13
+    2300016: UCX_HOUSE0
+    2300018: UCX_HOUSE1
+    2300020: UCX_HOUSE2
+    2300022: UCX_HOUSE3
+    2300024: UCX_HOUSE4
+    2300026: UCX_HOUSE5
+    2300028: UCX_HOUSE6
+    2300030: UCX_HOUSE7
+    2300032: UCX_HOUSE8
+    2300034: UCX_HOUSE9
+    3300000: HOUSE3
+    3300002: JANELA02
+    3300004: JANELA03
+    3300006: JANELA04
+    3300008: UCX_HOUS10
+    3300010: UCX_HOUS11
+    3300012: UCX_HOUS12
+    3300014: UCX_HOUS13
+    3300016: UCX_HOUSE0
+    3300018: UCX_HOUSE1
+    3300020: UCX_HOUSE2
+    3300022: UCX_HOUSE3
+    3300024: UCX_HOUSE4
+    3300026: UCX_HOUSE5
+    3300028: UCX_HOUSE6
+    3300030: UCX_HOUSE7
+    3300032: UCX_HOUSE8
+    3300034: UCX_HOUSE9
+    4300000: HOUSE3
+    4300002: JANELA02
+    4300004: JANELA03
+    4300006: JANELA04
+    4300008: UCX_HOUSE3
+    4300010: UCX_HOUSE0
+    4300012: UCX_HOUSE1
+    4300014: UCX_HOUSE2
+    4300016: UCX_HOUSE4
+    4300018: UCX_HOUSE5
+    4300020: UCX_HOUSE6
+    4300022: UCX_HOUSE7
+    4300024: UCX_HOUSE8
+    4300026: UCX_HOUSE9
+    4300028: UCX_HOUS10
+    4300030: UCX_HOUS11
+    4300032: UCX_HOUS12
+    4300034: UCX_HOUS13
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
